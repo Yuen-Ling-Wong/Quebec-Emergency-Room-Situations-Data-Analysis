@@ -1,6 +1,6 @@
-# Québec Emergency Rooms Situations Data Analysis
+# Québec Emergency Room Situations Data Analysis
 
-This project aims to analyze the latest data regarding **Emergency Rooms (ER) Situations** in **Québec**. 
+This project aims to analyze the latest data regarding **Emergency Room (ER) Situations** in **Québec**. 
 
 In this project, I have scraped the lastest data from: <br>
 > - [Gouvernment du Québec](https://www.quebec.ca/en/health/health-system-and-services/service-organization/quebec-health-system-and-its-services/situation-in-emergency-rooms-in-quebec)
