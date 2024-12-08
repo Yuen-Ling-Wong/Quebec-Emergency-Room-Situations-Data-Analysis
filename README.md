@@ -6,8 +6,8 @@ In this project, I have scraped the lastest data from: <br>
 > - [Gouvernment du Québec](https://www.quebec.ca/en/health/health-system-and-services/service-organization/quebec-health-system-and-its-services/situation-in-emergency-rooms-in-quebec)
 
 ## Questions to be explored
-1. Top 10 Hospitals with Shortest Estimated Emergergy Wait Time (Non-Priority Cases) in Montreal
-2. Top 10 Hospitals with Shortest Average Emergergy Wait Time in Montreal
+1. Top 10 Hospitals with Shortest Estimated Emergency Wait Time (Non-Priority Cases) in Montreal
+2. Top 10 Hospitals with Shortest Average Emergency Wait Time in Montreal
 3. Is there shortage of stretchers among hospitals in Montreal?
 4. Overall Pictures Showing Estimated Emergency Wait Time of Hospitals Across Quebec
 5. Does Montreal have the shortest average estimated emergency wait time among all regions in Quebec?
